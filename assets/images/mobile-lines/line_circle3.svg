@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="15px" height="927px" viewBox="0 0 15 927" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>line_circle3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile---Portrait-Copy-2" transform="translate(-422.000000, -1607.000000)">
+            <g id="techhumannetwork_mobile" transform="translate(46.000000, 1061.000000)">
+                <g id="line_circle3" transform="translate(376.000000, 547.000000)">
+                    <path d="M6,0.77068054 L6,916.506689" id="line3" stroke="#FFFFFF" stroke-width="3" stroke-linecap="square" transform="translate(6.500000, 458.500000) scale(-1, 1) translate(-6.500000, -458.500000) "></path>
+                    <circle id="Oval" fill="#FFFFFF" cx="7.5" cy="918.5" r="7.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

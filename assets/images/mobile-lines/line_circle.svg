@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="15px" height="1699px" viewBox="0 0 15 1699" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>line_circle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile---Portrait-Copy-2" transform="translate(-239.000000, -1644.000000)">
+            <g id="line_circle" transform="translate(239.000000, 1645.000000)">
+                <path d="M6.2,1.42358581 L6.2,1692.95298" id="line3" stroke="#FFFFFF" stroke-width="3" stroke-linecap="square" transform="translate(6.800000, 846.932106) scale(-1, 1) translate(-6.800000, -846.932106) "></path>
+                <circle id="Oval" fill="#FFFFFF" cx="7.5" cy="1690.28113" r="7.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

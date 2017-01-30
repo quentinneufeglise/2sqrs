@@ -1,0 +1,129 @@
+// -----------------------------------------------------------------------------
+// This file contains all application-wide Sass mixins.
+// -----------------------------------------------------------------------------
+
+/// Event wrapper
+/// @author Harry Roberts
+/// @param {Bool} $self [false] - Whether or not to include current selector
+/// @link https://twitter.com/csswizardry/status/478938530342006784 Original tweet from Harry Roberts
+@mixin on-event($self: false) {
+  @if $self {
+    &,
+    &:hover,
+    &:active,
+    &:focus {
+      @content;
+    }
+  } @else {
+    &:hover,
+    &:active,
+    &:focus {
+      @content;
+    }
+  }
+}
+
+/// Make a context based selector a little more friendly
+/// @author Hugo Giraudel
+/// @param {String} $context
+@mixin when-inside($context) {
+  #{$context} & {
+    @content;
+  }
+}
+
+@mixin center {
+  text-align: center;
+}
+
+@mixin spacing-xxs {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+@mixin spacing-xs {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+@mixin spacing-sm {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+@mixin spacing-md {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+@mixin spacing-lg {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+@mixin spacing-xl {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+@mixin spacing-xxl {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+@mixin spacing-top-xxs {
+  margin-top: 10px;
+}
+
+@mixin spacing-top-xs {
+  margin-top: 15px;
+}
+
+@mixin spacing-top-sm {
+  margin-top: 20px;
+}
+
+@mixin spacing-top-md {
+  margin-top: 30px;
+}
+
+@mixin spacing-top-lg {
+  margin-top: 50px;
+}
+
+@mixin spacing-top-xl {
+  margin-top: 80px;
+}
+
+@mixin spacing-top-xxl {
+  margin-top: 100px;
+}
+
+@mixin spacing-bottom-xxs {
+  margin-bottom: 10px;
+}
+
+@mixin spacing-bottom-xs {
+  margin-bottom: 15px;
+}
+
+@mixin spacing-bottom-sm {
+  margin-bottom: 20px;
+}
+
+@mixin spacing-bottom-md {
+  margin-bottom: 30px;
+}
+
+@mixin spacing-bottom-lg {
+  margin-bottom: 50px;
+}
+
+@mixin spacing-bottom-xl {
+  margin-bottom: 80px;
+}
+
+@mixin spacing-bottom-xxl {
+  margin-bottom: 100px;
+}
+

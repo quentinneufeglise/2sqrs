@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1045px" height="1028px" viewBox="0 0 1045 1028" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>techhumannetwork_desktop2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2sqrs-Home---Desktop-Copy" transform="translate(-166.000000, 0.000000)">
+            <g id="techhumannetwork_desktop2" transform="translate(166.000000, -493.000000)">
+                <g id="Group" transform="translate(289.000000, 184.000000)">
+                    <rect id="Rectangle" fill="#B8352B" x="0" y="0" width="455.333333" height="455.329987"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" x="114" y="114" width="227.660004" height="227.660004"></rect>
+                </g>
+                <text id="human" font-family="Yantramanav-Bold, Yantramanav" font-size="60" font-weight="bold" letter-spacing="1.52395284" fill="#FFFFFF">
+                    <tspan x="667.620782" y="619">human</tspan>
+                </text>
+                <path d="M514.5,0.5 L0.5,525.5" id="Line" stroke="#000000" stroke-width="3" stroke-linecap="square" stroke-dasharray="3,6,3,6" transform="translate(257.500000, 263.000000) scale(-1, 1) translate(-257.500000, -263.000000) "></path>
+                <path d="M1038.5,405.5 L513.5,523.5" id="Line" stroke="#000000" stroke-width="3" stroke-linecap="square" stroke-dasharray="3,6,3,6"></path>
+                <path d="M8,492.969735 L8,906.001221" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square" transform="translate(8.500000, 699.500000) scale(-1, 1) translate(-8.500000, -699.500000) "></path>
+                <path d="M511,643.515232 L511,875.827495" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square" transform="translate(511.500000, 759.500000) scale(-1, 1) translate(-511.500000, -759.500000) "></path>
+                <path d="M1036,495.89088 L1036,1503.0839" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square" transform="translate(1036.500000, 999.500000) scale(-1, 1) translate(-1036.500000, -999.500000) "></path>
+                <circle id="Oval" fill="#FFFFFF" cx="8.5" cy="907.5" r="8.5"></circle>
+                <circle id="Oval" fill="#FFFFFF" cx="512.5" cy="879.5" r="8.5"></circle>
+                <circle id="Oval" fill="#FFFFFF" cx="1036.5" cy="1512.5" r="8.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
